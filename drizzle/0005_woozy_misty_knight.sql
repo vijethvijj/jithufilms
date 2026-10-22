@@ -1,0 +1,1 @@
+ALTER TABLE `gallery_photos` ADD `isIntro` boolean DEFAULT false NOT NULL;
