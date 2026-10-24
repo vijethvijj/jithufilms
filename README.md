@@ -1,3 +1,4 @@
+HEAD
 # Jithu Films — Wedding Photography & Cinematography
 
 A responsive, cream-toned editorial portfolio built with React, Vite, TypeScript, plain CSS, GSAP ScrollTrigger, Express and Drizzle. It includes a first-session lens intro, interactive hero photos, a scroll-triggered shutter gallery, lightbox, playable video previews, service enquiry links and a booking form.
@@ -43,3 +44,6 @@ Required fields are name, email, event type, event date and at least one selecte
 - `server/enquiries.ts` and `server/enquiryValidation.ts` implement the public booking endpoint and validation.
 - `drizzle/schema.ts` and `drizzle/` contain the enquiry schema and migration history.
 - `client/public/manus-routes.json` declares the page route used by the current site.
+
+# jithufilms
+63bb7c47968cc59c8e4f667be917e8732cb6664c
